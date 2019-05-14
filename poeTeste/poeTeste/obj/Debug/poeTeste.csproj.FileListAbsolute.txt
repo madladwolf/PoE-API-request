@@ -1,0 +1,10 @@
+C:\Users\t0114312\source\repos\poeTeste\poeTeste\obj\Debug\poeTeste.csprojAssemblyReference.cache
+C:\Users\t0114312\source\repos\poeTeste\poeTeste\obj\Debug\poeTeste.csproj.CoreCompileInputs.cache
+C:\Users\t0114312\source\repos\poeTeste\poeTeste\bin\Debug\poeTeste.exe.config
+C:\Users\t0114312\source\repos\poeTeste\poeTeste\bin\Debug\poeTeste.exe
+C:\Users\t0114312\source\repos\poeTeste\poeTeste\bin\Debug\poeTeste.pdb
+C:\Users\t0114312\source\repos\poeTeste\poeTeste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\t0114312\source\repos\poeTeste\poeTeste\bin\Debug\Newtonsoft.Json.xml
+C:\Users\t0114312\source\repos\poeTeste\poeTeste\obj\Debug\poeTeste.csproj.CopyComplete
+C:\Users\t0114312\source\repos\poeTeste\poeTeste\obj\Debug\poeTeste.exe
+C:\Users\t0114312\source\repos\poeTeste\poeTeste\obj\Debug\poeTeste.pdb
